@@ -2,12 +2,32 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/pexels/circuit.jpeg"
-tags: [About, Test]
+tags: [About]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+# Hello, World!
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+Hi, I'm Manuel Wiese and I run this blog. This blog is **THE** place to be if you are interested in:
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+* programming
+* problem solving
+* computers
+
+# $whoami
+
+I started programming around 20 years ago when I was 8 or 9 years old.
+Since then I wrote many lines of code and here I want to share some of my projects.
+
+# What to expect
+
+I want to use this blog to excel at programming.
+
+Topics I'm currently most interested in are
+
+* Machine learning
+* Neural networks
+* Computer vision
+* Unix operating systems
+* Mobile development
+
+Check out the related [blog](https://eniacization.github.io) by eniacization.
