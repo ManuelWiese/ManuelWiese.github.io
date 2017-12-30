@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to my blog
+comments: true
 tags: [Test]
 ---
 
